@@ -18,7 +18,7 @@
             <a href="<?php echo site_url('/'); ?>">
                 <img src="<?php echo get_theme_file_uri('/imgs/mainLogo.png'); ?>" alt="mio">
             </a>          
-            <h1>Alzulal Pharma</h1>    
+            <h1 style="margin: 0">Alzulal Pharma</h1>    
         </div>
         <div class="navbar">
             <a href="<?php echo site_url('/why-biowash'); ?>">لماذا بايو ووش</a>
