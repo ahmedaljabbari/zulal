@@ -61,10 +61,7 @@ body {
 	display: none;
 	font-size: 40px;
 	margin-right: 10px;
-}
-.burger > * {
 	color: #2864AC;
-
 }
 
 .expander {

@@ -24,9 +24,7 @@
             <a href="<?php echo site_url('/why-biowash'); ?>">لماذا بايو ووش</a>
             <a href="<?php echo site_url('/what-is-biowash'); ?>">ما هو بايو ووش</a>
         </div>
-        <div class="burger">
-            <i class="fa-solid fa-bars"></i>
-        </div>
+        <i class="fa-solid fa-bars burger"></i>
     </div>
     <div class="expander">
         <section>
