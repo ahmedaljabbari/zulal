@@ -4,7 +4,7 @@
 while (have_posts()) {
     the_post(); ?>
 
-    <h2 style="text-align: center">تتوفر منتجاتنا بثلاث روائح</h2><br><br>
+    <h2 style="text-align: center">تتوفر منتجاتنا بثلاث روائح</h2><br>
     <div class="container">
         <div class="demo">
             <div class="card" style="width: 18rem;">

@@ -55,6 +55,7 @@ body {
 	background: -webkit-linear-gradient(navy, dimgray);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
+	align-self: center;
 }
 
 .burger {
